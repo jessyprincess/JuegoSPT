@@ -1,6 +1,6 @@
 import java.util.Scanner;  // Import the Scanner class, format java.util is a package and Scanner is a class
 
-public class Main {
+public class JuegoSPT {
     static void JoKePo() {
 
         //     /* JoKEPo Game
